@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.robertfraher.responsive-application"
+        id        = "com.kristinbudensiek.KristinPortfolioApp"
         version   = "2.0.0">
-    <name>Responsive Application</name>
+    <name>KristinPortfolioApp</name>
 
     <description>
-        Responsive Application sample application.
+        Interactive portfolio desk.
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        ProfessorRobertFraher
+    <author href="http://kristinbudensiek.com" email="budensiekk@my.uwstout.edu">
+        budensiekk
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
     <preference name="phonegap-version" value="2.1.0" />
-    <preference name="orientation"      value="default" />
-    <preference name="target-device"    value="universal" />
+    <preference name="orientation"      value="landscape" />
+    <preference name="target-device"    value="handset" />
     <preference name="fullscreen"       value="false" />
 
     <icon src="icon.png" />
