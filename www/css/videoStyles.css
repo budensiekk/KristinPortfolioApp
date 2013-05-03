@@ -7,12 +7,21 @@ body {
 }
 
 #iframe {
-	margin:auto;	
+	margin:auto;
+	width:100%;	
 }
 
-#button{
+#buttony{
 	float:left;
-	margin:auto;
-	width:100%;
-	margin-top:10px;	
+	width:90%;
+	margin:5% 5%;
+	height:25px;
+	margin-top:10px;
+	background:#34bedc;	
+	border: 0px;
+	border-radius:10px;
+}
+
+#clear{
+	clear:both;	
 }
