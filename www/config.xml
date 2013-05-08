@@ -20,7 +20,7 @@
     <preference name="target-device"    value="handset" />
     <preference name="fullscreen"       value="true" />
 
-    <icon src="kIcon.jpg" />
+    <icon src="kIcon.png" />
     
     <icon src="res/icon/icon-29.png"            gap:platform="ios"        width="29" height="29" />
 	<icon src="res/icon/icon-48.png"            gap:platform="ios"        width="48" height="48" />
@@ -33,5 +33,5 @@
     <gap:splash src="res/screen/screen-iphone-portrait.png"    gap:platform="ios"     width="320" height="480" />
     <gap:splash src="res/screen/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
     <gap:splash src="res/screen/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
-    <gap:splash src="res/screen/screen-ipad-landscape.png"     gap:platform="ios"     width="640" height="960" />
+    <gap:splash src="res/screen/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
 </widget>
