@@ -49,11 +49,12 @@ body {
 
 #slider3 li{
 	width:100%;
-	padding-top:10px;
+
 }
 
 .swipe li div, .swipe div div div {
-	margin:0 10px;
+
+	
 }
 
 
@@ -102,13 +103,19 @@ h1{
 
 
 #thumbnailsGroup{
-	
+
 }
 
 #thumbnails li{
 	float:left;
-	width:33.33%;
+	width:50%;
 }
+
+.work{
+	float:right;
+}
+
+
 
 
 .hidden{
