@@ -40,6 +40,7 @@ body {
 	width:100%;
 	background-image:url(../images/backk.jpg);	
 	background-size:cover;
+	
 }
 
 .swipe {
@@ -68,26 +69,22 @@ body {
 	width:7%;
 	float:left;	
 	margin-left:5%;
-	height:50px;
-	padding-top:10px;
+	height:40px;
+	padding-top:5px;
 }
-
-
-
-
 
 #secondButton{
 	width:7%;
 	float:right;	
 	margin-right:5%;
-	padding-top:10px;
-	height:50px;
+	padding-top:5px;
+	height:40px;
 }	
 
 #mainNav{
 	width:75.5%;
 	float:left;
-	height:50px;
+	height:40px;
 	text-align:center;
 }
 	
